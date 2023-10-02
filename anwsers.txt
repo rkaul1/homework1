@@ -1,0 +1,4 @@
+What is a remote repository?
+
+It is a repository that is hosted in its own location. With it, you can have a common place
+for multiple people to access the current version of the code.
